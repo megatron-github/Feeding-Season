@@ -1,15 +1,16 @@
 var germs = [];
 var foods = [];
 var poisons = [];
-var countTotal = 0;
-var mutationRate = 0.25;
 
+var mutationRate = 0.25;
+var countTotal = 0;
 var timer;
 var nextTimer = 0;
 var generation;
 var showDNA = false;
 
 function setup() {
+  // function to set up the program
 
   // setting canvas to be the size of the device screen
   createCanvas(windowWidth, windowHeight);
@@ -33,6 +34,7 @@ function setup() {
 }
 
 function draw() {
+  // function to display the program
 
   background(0); // setting the background of the canvas to be black
   timer = round(millis() / 1000) - nextTimer; // initialize time
