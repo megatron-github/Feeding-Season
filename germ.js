@@ -37,8 +37,7 @@ function Germ(x, y, dna) {
   }
 
   this.display = function() {
-    // method to add the germ to the HTML and
-    // display it
+    // method to add the germ to the HTML and display it
 
     // create an angle in the direction of velocity of the germ
     var angle = this.velocity.heading() + PI / 2;
