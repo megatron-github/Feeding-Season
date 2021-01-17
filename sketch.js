@@ -1,17 +1,3 @@
-// Project was inspired by Coding Challenge Evolutionary Steering Force
-// by Coding Train
-
-// Cite: https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp06_agents/NOC_6_01_Seek
-// Desc: Setting up Steering Vector
-
-// Cite: Coding Train - https://www.youtube.com/watch?v=flxOkx0yLrY
-// Desc: Tutoring the entire project
-
-// Cite: SetupandDraw - https://github.com/SetupandDraw/experiments/tree/gh-pages/Evolve_steering_Behavior
-// Desc: Adding text to display canvas
-//       Adding timer feature to canvas
-//       Adding key press feature to canvas
-
 var germs = [];
 var foods = [];
 var poisons = [];
