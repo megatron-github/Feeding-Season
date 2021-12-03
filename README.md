@@ -1,3 +1,3 @@
-# Feeding_Season
+# Feeding-Season
 
 The project Feeding Season was inspired by Coding Train's Coding Challenge: Evolutionary Steering Force (https://www.youtube.com/watch?v=flxOkx0yLrY). Feeding Season used Node.JS and p5.js libraries to display the concept of Steering Force and Evolution. The goal is to create a system (an adaptation of nature) that is resided by autonomous agents. The agents can seek and consume food as well as avoid poison founded in the system. Each agent's efficiency of seeking food and avoiding the poison is randomly assigned. Every agent must constantly consume food and avoid poison to stay healthy and alive. The agents can clone themselves. The clone will carry similar characteristics to its parent. In other to clone itself, the autonomous must stay alive for a long time. Such an agent must have the ideal efficiency in tracking food and avoiding poison. The program will display the simulation on the user's default web browser.
